@@ -1,0 +1,48 @@
+body {
+  background-color: #407088;
+  font-family: monospace;
+}
+
+h1 {
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px 0 0 0;
+  font-size: 50px;
+  color: #ffb5b5;
+}
+
+h2 {
+  color: aliceblue;
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 40px;
+  width: 10%;
+  display: inline-block;
+}
+div {
+  display: block;
+  text-align: center;
+  background-color: #132743;
+  margin: 0 auto;
+  width: 600px;
+  height: 500px;
+}
+
+section {
+  display: inline-block;
+  color: aliceblue;
+}
+
+.songs {
+  width: 80%;
+  height: 100px;
+  padding: 10px 0 0 0;
+  float: right;
+}
+
+hr {
+  color: #ffb5b5;
+  width: 400px;
+}
